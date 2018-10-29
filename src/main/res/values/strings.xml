@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">簡単マネー簿</string>
+    <string name="radio_spending">支出</string>
+    <string name="radio_income">収入</string>
+    <string name="out_price">金額</string>
+    <string name="hint_price">金額を入力</string>
+    <string name="en">円</string>
+    <string name="add_price_btn">家計簿に追加</string>
+    <string name="spending_list_name">収支項目</string>
+    <string name="spending_list_btn">収支項目追加</string>
+    <string name="all_view_name">収支</string>
+    <string name="all_view_btn">収支一覧</string>
+
+
+    <string name="add_list_name">追加収支項目名</string>
+    <string name="hint_spending_list">収支項目を入力してください</string>
+    <string name="add_list_btn">実行</string>
+    <string name="delete_list">削除</string>
+
+    <string name="update_search">検索</string>
+
+    <string name="search_year_txt">年</string>
+    <string name="search_month_txt">月</string>
+    <string name="aggregate_btn_txt">集計</string>
+
+    <string name="tab_write">記録</string>
+    <string name="tab_list">追加</string>
+    <string name="tab_update">更新</string>
+    <string name="tab_view">集計</string>
+    <string name="tab_chart">グラフ</string>
+
+    <string name="update_btn_txt">変更</string>
+    <string name="cancel_btn_txt">キャンセル</string>
+
+    <string name="chart_txt">グラフ化</string>
+</resources>
